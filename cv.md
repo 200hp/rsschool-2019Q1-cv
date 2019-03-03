@@ -24,8 +24,8 @@ I need this, please. 😥
 * [Codeacademy courses](https://www.codecademy.com/users/200hp/achievements)
 * [Htmlacademy courses](https://htmlacademy.ru/profile/id1022519/achievements)
 
- _Self-education -  in 99 pct of cases_...
-
+ _Self-education -  in 99 pct of cases_..
+ 
  ## Foreign languages
  English: ***Pre-Intermediate***
  
