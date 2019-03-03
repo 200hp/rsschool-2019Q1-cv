@@ -24,9 +24,9 @@ I need this, please. 😥
 * [Codeacademy courses](https://www.codecademy.com/users/200hp/achievements)
 * [Htmlacademy courses](https://htmlacademy.ru/profile/id1022519/achievements)
 
- _Self-education -  in 99 pct of cases..._
- 
- ## Foreign languages
- English: ***Pre-Intermediate***
+_Self-education -  in 99 pct of cases..._
+
+## Foreign languages
+English: ***Pre-Intermediate***
  
 I attended the semi-annual English language course (October 2018 – January 2019). Also every day I spend a couple of minutes reading articles and watching videos in English.
