@@ -1,0 +1,157 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: red;
+    font-family: 'Franklin Gothic Medium';
+}
+  
+li {
+    text-align: center;
+    display: inline-block;
+}
+  
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+  
+li a:hover {
+    background-color: black;
+}
+
+body {
+    background-color: red;
+    margin: 0px; 
+    padding: 0px; 
+}
+
+a {
+    color:maroon;
+  }
+
+#avatar {
+    border-radius: 50%;
+    width: 10%;
+    margin-top: 50px;
+    margin-bottom: 15px;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    font-family: 'Tahoma';
+}
+
+h3 {
+    color:black;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium';
+    margin-bottom: 50px;
+}
+
+p {
+    font-family: 'Segoe UI';
+}
+
+.about h1 {
+    color:red;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium';
+}
+
+.about {
+    background-color: white;
+    padding: 25px;
+}
+
+.skills {
+    padding: 50px;
+}
+
+.ring {
+	border: 2px solid white;
+	border-radius: 50%;
+	width: 150px;
+    height: 150px;
+    font-size: 50px;
+    color: black;
+    line-height: 150px;
+    text-align: center;
+    font-family: Times;
+    display: inline-block;
+    padding: 10px;
+    justify-content: center;
+    align-items: center;
+}
+
+.rings {
+    display: flex;
+  }
+.ring-with-content {
+    background: linear-gradient(white, red);
+    justify-content: center;
+    align-items: center;
+    border-radius: 100%;
+    text-align: center;
+    margin: 5px 20px;
+    font-size: 30px;
+    font-family: 'Segoe UI';
+    padding: 15px;
+    display: flex;
+    height: 180px;
+    width: 180px;
+    color: black;
+}
+
+input[type=text], select, textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
+  }
+  
+input[type=submit] {
+    background-color: white;
+    color:black;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+input[type=submit]:hover {
+    color: red;
+  }
+  
+.container {
+    border-radius: 10px;
+    background-color: white;
+    padding: 20px;
+}
+
+.contact {
+    text-align: center;
+    display: inline-block;
+    padding: 50px;
+}
+
+.intouch{
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+}
